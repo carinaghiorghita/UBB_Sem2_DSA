@@ -1,0 +1,8 @@
+﻿  ExtendedTest.cpp
+  ListIterator.cpp
+  ShortTest.cpp
+  SortedIndexeList.cpp
+D:\fac\sem2\sda\SortedIndexedList\SortedIndexeList.cpp(242,15): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+D:\fac\sem2\sda\SortedIndexedList\SortedIndexeList.cpp(44): warning C4715: 'SortedIndexedList::getElement': not all control paths return a value
+  ADTSortedList (15 - lab6).vcxproj -> D:\fac\sem2\sda\ADTSortedList (15 - lab6)\Debug\ADTSortedList (15 - lab6).exe

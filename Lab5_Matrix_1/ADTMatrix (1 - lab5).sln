@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADTMatrix (1 - lab5)", "ADTMatrix (1 - lab5)\ADTMatrix (1 - lab5).vcxproj", "{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Debug|x64.ActiveCfg = Debug|x64
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Debug|x64.Build.0 = Debug|x64
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Debug|x86.ActiveCfg = Debug|Win32
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Debug|x86.Build.0 = Debug|Win32
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Release|x64.ActiveCfg = Release|x64
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Release|x64.Build.0 = Release|x64
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Release|x86.ActiveCfg = Release|Win32
+		{F31AEAD0-A0E9-4B74-9935-D82CF7B5E988}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E9F2E9-8937-4CB4-A4B3-47D4C99B8321}
+	EndGlobalSection
+EndGlobal

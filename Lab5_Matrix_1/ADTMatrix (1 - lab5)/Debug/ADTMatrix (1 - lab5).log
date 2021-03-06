@@ -1,0 +1,18 @@
+﻿  App.cpp
+D:\fac\sem2\sda\Matrix\Matrix.h(14,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\fac\sem2\sda\Matrix\Matrix.h(19,2): warning C4091: 'typedef ': ignored on left of 'hashT' when no variable is declared
+  ExtendedTest.cpp
+D:\fac\sem2\sda\Matrix\Matrix.h(14,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\fac\sem2\sda\Matrix\Matrix.h(19,2): warning C4091: 'typedef ': ignored on left of 'hashT' when no variable is declared
+  Matrix.cpp
+D:\fac\sem2\sda\Matrix\Matrix.h(14,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\fac\sem2\sda\Matrix\Matrix.h(19,2): warning C4091: 'typedef ': ignored on left of 'hashT' when no variable is declared
+  MatrixIterator.cpp
+D:\fac\sem2\sda\Matrix\Matrix.h(14,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\fac\sem2\sda\Matrix\Matrix.h(19,2): warning C4091: 'typedef ': ignored on left of 'hashT' when no variable is declared
+  ShortTest.cpp
+D:\fac\sem2\sda\Matrix\Matrix.h(14,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\fac\sem2\sda\Matrix\Matrix.h(19,2): warning C4091: 'typedef ': ignored on left of 'hashT' when no variable is declared
+  Generating Code...
+D:\fac\sem2\sda\Matrix\Matrix.cpp(178): warning C4715: 'Matrix::modify': not all control paths return a value
+  ADTMatrix (1 - lab5).vcxproj -> D:\fac\sem2\sda\ADTMatrix (1 - lab5)\Debug\ADTMatrix (1 - lab5).exe
